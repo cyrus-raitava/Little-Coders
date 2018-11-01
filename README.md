@@ -28,3 +28,24 @@ More documentation for each release (i.e. known bugs) are shown with each releas
 
 ---
 `Google Play and the Google Play logo are trademarks of Google LLC.`
+
+## Screenshots of the game:
+
+![alt text](https://github.com/liamtbrand/softeng306-p2g8/wiki/MAIN_MENU.jpg)
+_(Screenshot of the Main Menu of the game.)_
+
+
+![alt text](https://github.com/cyrus-raitava/little-coders/wiki/LEVEL_1.jpg)
+_(Interactions with the First Level.)_
+
+***
+
+![alt text](https://github.com/cyrus-raitava/little-coders/wiki/LEVEL_2.PNG)
+_(Interactions with the Second Level.)_
+
+***
+
+![alt text](https://github.com/cyrus-raitava/little-coders/wiki/LEVEL_3.PNG)
+_(Interactions with the Third Level.)_
+
+***
