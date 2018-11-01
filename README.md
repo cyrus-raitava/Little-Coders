@@ -1,5 +1,10 @@
 # Get Real Studios: Little Coders
-### Deemed overall 'best game', out of 10/11 teams of 8, within the UoA Software Engineering Cohort of 2018.
+
+![alt text](https://github.com/liamtbrand/softeng306-p2g8/wiki/MAIN_MENU.jpg)
+_(Screenshot of the Main Menu of the game.)_
+
+### Awarded overall 'Best Game' within the UoA Software Engineering Cohort of 2018.
+
 <a href='https://play.google.com/store/apps/details?id=com.GetRealStudios.GameDevStory&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img width=250 alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
 
 Find our releases in the releases tab. This will let you see the state of the repo at the time of generating the release, and also access the binary (.apk file) for installation on your phone.
@@ -30,10 +35,6 @@ More documentation for each release (i.e. known bugs) are shown with each releas
 `Google Play and the Google Play logo are trademarks of Google LLC.`
 
 ## Screenshots of the game:
-
-![alt text](https://github.com/liamtbrand/softeng306-p2g8/wiki/MAIN_MENU.jpg)
-_(Screenshot of the Main Menu of the game.)_
-
 
 ![alt text](https://github.com/cyrus-raitava/little-coders/wiki/LEVEL_1.jpg)
 _(Interactions with the First Level.)_
